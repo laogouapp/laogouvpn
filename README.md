@@ -6,5 +6,6 @@
 * 安全加密
 * 10Gbps带宽
 * 私有协议
+* 30天试用
 
-网址：https://laogou.us
+网址：https://www.laogou.us
